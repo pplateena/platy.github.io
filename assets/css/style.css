@@ -897,14 +897,14 @@ margin: 30px 0px; }
     font-weight: bold;
     position: absolute;
     top: 6px;
-    left: -19px;
+    left: -20px;
 }
 .pricingTable .month{
     font-size: 16px;
     color: #fff;
     position: absolute;
     bottom: 15px;
-    right: -35px;
+    right: 0 px;
     text-transform: uppercase;
 }
 .pricingTable .pricing-content{
@@ -1461,7 +1461,7 @@ text-align: left;
 
 .clip-polygon  {
    background-color: #fff !important;
-  background: url(../images/s-left-0.png) left top no-repeat;
+  background: url(../images/s-left.jpg) left top no-repeat;
 
    clip-path: polygon(0% 25%, 78% 0%, 90% 89%, 54% 101%, 0% 100%, 0% 75%, 0% 100%);
    -webkit-clip-path: polygon(0% 25%, 78% 0%, 90% 89%, 54% 101%, 0% 100%, 0% 75%, 0% 100%) !important;
@@ -2654,7 +2654,7 @@ margin-bottom: 15px;
 .clip-right{
   clip-path:none !important;
   -webkit-clip-path:none !important;
-      background: url(../images/s-left.png)center top no-repeat;
+      background: url(../images/s-left-1.png)center top no-repeat;
       margin-top: 15px;
 }
 .p-0 {
