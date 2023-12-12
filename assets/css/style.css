@@ -437,7 +437,7 @@ dd, dt {
     font-weight: 700;
     color: #364167;
         line-height: 50px;
-    text-transform: capitalize;
+    /*text-transform: capitalize;*/
 }
   
 .bg-banner-img{
@@ -806,7 +806,7 @@ margin: 30px 0px; }
 
 .about_bottom_h{font-size: 20px;     line-height:
 35px;color: #90a0b4; padding-right: 15px; 
-    text-transform: capitalize;
+    /*text-transform: capitalize;*/
 
 }
 .mt-50{
@@ -1003,7 +1003,7 @@ margin: 30px 0px; }
     font-weight: 900;
     color: #364167;
         line-height: 50px;
-    text-transform: capitalize;
+    /*text-transform: capitalize;*/
 }
 
 .title-lefts .bottom_h{
@@ -1044,7 +1044,7 @@ margin: 30px 0px; }
     font-weight: 600;
     color: #364167;
     line-height: 50px;
-    text-transform: capitalize;
+    /*text-transform: capitalize;*/
     margin-bottom:18px;
 }
 .about-team h1{
@@ -1053,7 +1053,7 @@ margin: 30px 0px; }
     font-weight: 700;
     color: #364167;
     line-height: 50px;
-    text-transform: capitalize;
+    /*text-transform: capitalize;*/
     margin-bottom: 45px;
 }
 
@@ -1089,7 +1089,7 @@ label{
     line-height: 45px;
     color: #90a0b4;
     padding-right: 0px;
-    text-transform: capitalize;
+    /*text-transform: capitalize;*/
 }
 .owl-prev {
    
@@ -1129,7 +1129,7 @@ label{
     font-weight: 700;
     color: #364167;
     line-height: 50px;
-    text-transform: capitalize;
+    /*text-transform: capitalize;*/
 }
 
 
@@ -1219,7 +1219,7 @@ text-align: left;
      margin-left: 10px;
   display: block;
   font-weight: 600;
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
   padding-top: 10px;
 }
 .our_team_area .team_row .team_membar .team_content h6 {
@@ -1461,7 +1461,7 @@ text-align: left;
 
 .clip-polygon  {
    background-color: #fff !important;
-  background: url(../images/s-left-1.png) left top no-repeat;
+  background: url(../images/s-left-0.png) left top no-repeat;
 
    clip-path: polygon(0% 25%, 78% 0%, 90% 89%, 54% 101%, 0% 100%, 0% 75%, 0% 100%);
    -webkit-clip-path: polygon(0% 25%, 78% 0%, 90% 89%, 54% 101%, 0% 100%, 0% 75%, 0% 100%) !important;
@@ -1469,7 +1469,7 @@ text-align: left;
 }
 .clip-right {
    background-color: #fff !important;
-  background: url(../images/s-left.png) right top no-repeat;
+  background: url(../images/s-left-1.png) right top no-repeat;
     clip-path: polygon(14% 9%, 106% 34%, 100% 100%, 61% 100%, 0% 82%, 2% 72%, -1% 88%);
     -webkit-clip-path: polygon(14% 9%, 106% 34%, 100% 100%, 61% 100%, 0% 82%, 2% 72%, -1% 88%) !important;
 }
@@ -1539,7 +1539,7 @@ section{
     color: #fff;
     text-align: center;
     font-weight: bold;
-    text-transform: capitalize;
+
     margin: 30px 0 40px;
     -webkit-animation-delay: 150ms;
     animation-delay: 150ms;
@@ -1765,7 +1765,7 @@ iframe{
 }
 .sewl-comments-meta h4{
   margin-top: 2.2em;
-  text-transform:capitalize;
+
   font-weight:500;
   font-size: 20px;
 }
@@ -1950,7 +1950,7 @@ iframe{
 }
 .blog-content h3 a{
   font-size:20px;
-  text-transform:capitalize;
+
   color:#555!important; 
 }
 .blog-content p{
@@ -2004,7 +2004,7 @@ ul {
 }
 .btn_font_16{
   font-size: 16px;
-  text-transform:capitalize;
+
   padding: 12px 25px;
 }
 /*--------------------pagination-wrap end--------------*/
@@ -2082,7 +2082,7 @@ ol{
     margin-left:40px;
 }
 .sewl-comments-meta h4{
-  text-transform:capitalize;
+
   font-weight:500;
   margin-top: 0px;
 }
@@ -2293,7 +2293,7 @@ h3.blog-title {
 .sidebar-title{
     position: relative;
     font-size: 22px;
-    text-transform: capitalize;
+
     padding-bottom: 5px;
     margin-bottom: 20px;
 }
